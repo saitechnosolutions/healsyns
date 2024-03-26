@@ -16,7 +16,7 @@
 <!--------------- blog-tittle-section-end---------------->
 
 <!--------------- privacy-section --------------->
-<section class="product privacy footer-padding">hg
+<section class="product privacy footer-padding">
     <div class="container">
         <div class="privacy-section">
             <div class="policy">
